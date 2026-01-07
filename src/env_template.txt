@@ -1,2 +1,1 @@
-GROQ_API_KEY=***REMOVED***
 CLASS_SUBJECT_NAME=class12/biology
