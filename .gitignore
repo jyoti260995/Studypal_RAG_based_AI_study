@@ -213,3 +213,14 @@ data_original/
 # Datasets / PDFs (do not version)
 data/
 data_original/
+
+# Local env + IDE
+.venv/
+.idea/
+# Secrets
+.env
+*.env
+.env.*
+# Data
+data/
+data_original/
